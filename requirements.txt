@@ -5,3 +5,4 @@ sklearn
 geopy
 ipywidgets
 ipyleaflet
+plotly
